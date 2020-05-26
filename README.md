@@ -1,11 +1,11 @@
-# Título del trabajo
+# Dev-Car++
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Código que simula el programa informático de un concesionario. Contaría con una elección dentro de un catálogo para el cliente, adiciones que puede seleccionar para el modelo de coche que haya elegido y que se irán sumando a la facura final.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Juan Carlos Serradilla López (juancarlosserradillalopez) y Guillermo García Ortega (guillermogarciaortega)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Entender cómo funcionan los programas informáticos de empresas, tiendas... Además de mejorar en el uso del programador Dev-C++.
